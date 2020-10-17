@@ -1,0 +1,137 @@
+<view class="cu-timeline">
+	<view class="cu-time">2020年08月28</view>
+	<view class="cu-item">
+		<view class="content">
+			从厦门熵基科技公司测离职
+		</view>
+	</view>
+</view>
+
+<view class="cu-timeline">
+	<view class="cu-time">2020年8月</view>
+	<view class="cu-item">
+		<view class="content">
+			厦门熵基科技公司测试开发，主要负责web自动化、设备自动化测试。期间利用抓包工具实现接口测试，利用python模拟考勤机实现考勤机的主要功能。期间主要使用的技术python、Django、计算机网络。
+		</view>
+	</view>
+</view>
+<view class="cu-timeline">
+	<view class="cu-time">
+		07-23
+	</view>
+	<view class="cu-item">
+		<view class="content">
+			<view class="margin-top">
+
+				主要测试华为合作项目iclient,重点负责是vms这一块。功能是ipc+nvr+解码器来实现人脸识别，录像回放，人员考勤
+			</view>
+		</view>
+	</view>
+</view>
+<view class="cu-timeline">
+	<view class="cu-time">
+		05-17
+	</view>
+	<view class="cu-item">
+		<view class="content">
+			<view class="margin-top">
+				主要是搭建自动化框架，利用pytest+Jenkins+Allure进行。
+			</view>
+		</view>
+	</view>
+</view>
+<view class="cu-timeline">
+	<view class="cu-time">
+		2020年1月
+	</view>
+	<view class="cu-item">
+		<view class="content">
+			<view class="margin-top">
+				使用python语言开发虚拟考勤机，期间针对考勤机的push协议和http协议开发多线程处理的设备。其主要功能是监听服务器网卡下发命令，根据ID+命令进行工作；可以实现多台考勤机设备同时进行考勤工作，模拟出公司正常的考勤数量进行工作。
+			</view>
+		</view>
+	</view>
+</view>
+<view class="cu-timeline">
+	<view class="cu-time">
+		10-15
+	</view>
+	<view class="cu-item">
+		<view class="content">
+			主要是针对考勤产品进行系统性的学习和功能性的测试
+		</view>
+	</view>
+</view>
+<view class="cu-timeline">
+	<view class="cu-time">2019年7月</view>
+	<view class="cu-item text-blue">
+
+		<view class="bg-cyan content">
+			<view class="margin-top">
+				<text>在此期间复习和学习Java、python、sql、计算机网络等相关性知识</text>
+			</view>
+		</view>
+	</view>
+</view>
+<view class="cu-timeline">
+	<view class="cu-time">06-26</view>
+	<view class="cu-item">
+		<view class="content">
+			因个人原因从四信离职
+		</view>
+	</view>
+</view>
+<view class="cu-timeline">
+	<view class="cu-time">2019年1月</view>
+	<view class="cu-item">
+		<view class="content">
+			<view class="margin-top">
+				厦门四信通信公司
+			</view>
+		</view>
+	</view>
+</view>
+<view class="cu-timeline">
+	<view class="cu-time">10-20</view>
+	<view class="cu-item">
+		<view class="content">
+			在厦门四信通信公司任职测试工程师，主要负责web测试功能和设备通信测试测试。针对主流浏览器进行兼容性测试，网络协议之间的测试
+		</view>
+	</view>
+</view>
+<view class="cu-timeline">
+	<view class="cu-time">2018年8月</view>
+	<view class="cu-item">
+		<view class="content">
+			<view class="margin-top">
+				入职厦门四信通信公司
+			</view>
+		</view>
+	</view>
+</view>
+
+
+<view class="cu-timeline">
+	<view class="cu-time">2018年7月毕业</view>
+	<view class="cu-item">
+		<view class="content">
+			<view class="margin-top">
+				期间在宁德时代实习BMS系统测试开发，主要运用python进行自动化测试。
+			</view>
+		</view>
+	</view>
+	<view class="cu-timeline">
+		<view class="cu-time">2018年5月实习</view>
+	</view>
+	<view class="cu-item text-blue">
+
+		<view class="content">
+			在华侨大学计算机科学技术学院
+		</view>
+
+
+	</view>
+	<view class="cu-timeline">
+		<view class="cu-time">2014年9月入学</view>
+	</view>
+</view>

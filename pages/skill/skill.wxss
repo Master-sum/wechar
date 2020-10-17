@@ -1,0 +1,23 @@
+.tower-swiper .tower-item {
+  transform: scale(calc(0.5 + var(--index) / 10));
+  margin-left: calc(var(--left) * 100rpx - 150rpx);
+  z-index: var(--index);
+}
+
+.swipertitle{
+  position: absolute;
+  top:130px;
+  margin-left: 40%;
+  padding: 10rpx;
+  background-color: transparent;
+  width: 100%;
+  margin: 0 auto;
+  
+}
+ 
+/*文字样式*/
+.swipertitle text{
+  color: rgb(122, 158, 141);
+  font-size: 28rpx;
+  text-align: center;
+}
